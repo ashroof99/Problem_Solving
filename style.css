@@ -4,3 +4,7 @@ h1{
 body{
     background-color: rgba(0, 183, 255, 0.549);
 }
+p{
+    background-color: red;
+    color: antiquewhite;
+}
