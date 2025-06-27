@@ -1,10 +1,10 @@
 h1{
-    color: rgb(42, 165, 95);
+    color: rgb(219, 219, 219);
 }
 body{
-    background-color: rgba(248, 0, 223, 0.9);
+    background-color: rgba(13, 111, 192, 0.9);
 }
 p{
-    background-color: red;
-    color: antiquewhite;
+    background-color: rgb(222, 215, 215);
+    color: rgb(2, 2, 1);
 }
